@@ -1,2 +1,2 @@
 # jogo-da-velha
-Jogo da Velha desenvolvido em Angular utilizando a da API Marvel.
+Jogo da Velha desenvolvido em Angular utilizando a API da Marvel.
